@@ -1,3 +1,4 @@
+// Depricated - No Longer Needed - Please use {$column}_cache in DB | 20240101CD
 // Triggered Every Morning 2am to fetch CAD>USD rate and write to table
 function runQuery() {
   
